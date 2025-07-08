@@ -20,7 +20,7 @@ class Settings(BaseSettings):
     # ygg.re
     ygg_user: str = "user"
     ygg_pass: str = "pass"
-    ygg_url: str = "https://www.ygg.re"
+    ygg_url: str = "https://www.yggtorrent.top"
 
     # RSS PROXY
     rss_host: str = "localhost"
